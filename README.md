@@ -75,7 +75,7 @@
 
 ---
 
-#### GigHope – Day-to-Day Job Finder
+#### GigHope – Day-to-Day Job Finder (Django + Flutter)
 > A system connecting job providers with job seekers
 
 - 🔐 Wallet + payment workflow  
@@ -119,7 +119,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=js,python,react,nodejs,express,django,mongodb,mysql,tailwind,bootstrap,vite" />
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,,vite,python,django,mysql,flutter,tailwind,bootstrap" />
 
 <br/>
 
@@ -150,7 +150,7 @@
 
 ---
 
-# 🐍 Contribution Snake (Animated)
+# 🐍 Contributions
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -166,7 +166,7 @@
 
 ---
 
-# 💡 Developer Mindset
+# 💡 Life Cycle
 
 ```text
 Build → Deploy → Scale → Optimize → Repeat
