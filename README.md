@@ -119,7 +119,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,,vite,python,django,mysql,flutter,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,vite,python,django,mysql,flutter,tailwind,bootstrap" />
 
 <br/>
 
